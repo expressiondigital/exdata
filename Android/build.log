@@ -1,0 +1,159 @@
+Logfile initialized
+[INFO] logfile = /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build.log
+[DEBUG] /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/builder.py distribute eXdata /Volumes/StorageVol/Titanium/Android SDK /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid com.domgan.exdata /Volumes/StorageVol/Work/Work 6/eXdata Keystore internet eXdata /Users/ADM/Desktop 6
+[INFO] Titanium SDK version: 2.1.2 (08/24/12 14:46 ed7f777)
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Detected change in tiapp.xml, or assets deleted. Forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/appicon.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/default.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/default.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/app.js => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/CustomList.js => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/CustomList.js
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/CustomTabGroup.js => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/CustomTabGroup.js
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/CustomToolBar.js => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/CustomToolBar.js
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/explosives.json => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/explosives.json
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/back-blastanalysis-sel.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/back-blastanalysis-sel.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/back-blastanalysis.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/back-blastanalysis.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/back-explosives-sel.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/back-explosives-sel.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/back-explosives.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/back-explosives.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/back-more-sel.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/back-more-sel.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/back-more.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/back-more.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/back.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/back.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/back_sel.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/back_sel.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/bg_list.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/bg_list.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/bg_tabgroup_bottom.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/bg_tabgroup_bottom.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/bg_table_header.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/bg_table_header.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/bg_toolbar.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/bg_toolbar.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/blue.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/blue.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/blue_sel.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/blue_sel.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/list_arrow.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/list_arrow.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/risk_management.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/risk_management.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/sponsor-background.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/sponsor-background.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/sponsor.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/sponsor.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/tab_blast_analysis@64x64.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/tab_blast_analysis@64x64.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/tab_blast_analysis@64x64sel.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/tab_blast_analysis@64x64sel.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/tab_explosives@64x64.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/tab_explosives@64x64.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/tab_explosives@64x64sel.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/tab_explosives@64x64sel.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/tab_menu@64x64.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/tab_menu@64x64.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/tab_menu@64x64sel.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/tab_menu@64x64sel.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/tab_more@64x64.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/tab_more@64x64.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/tab_more@64x64sel.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/tab_more@64x64sel.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/tab_settings@64x64.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/tab_settings@64x64.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/tab_settings@64x64sel.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/tab_settings@64x64sel.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/images/transparent.png => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/images/transparent.png
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/JsonData.js => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/JsonData.js
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/tab1view.js => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/tab1view.js
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/tab2view.js => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/tab2view.js
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/tab3view.js => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/tab3view.js
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/tab4view.js => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/tab4view.js
+[TRACE] COPYING CREATED FILE: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/tnt.json => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/tnt.json
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] app stylesheet => /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/ApplicationStylesheet.java
+[DEBUG] copying app icon: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-large-port-hdpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-large-port-hdpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-large-port-hdpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-large-port-hdpi/background.png
+[DEBUG] found drawable-long-land-hdpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/ApplicationStylesheet.java to javac build list
+[DEBUG] adding /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/AssetCryptImpl.java to javac build list
+[DEBUG] adding /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/ExdataActivity.java to javac build list
+[DEBUG] adding /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/ExdataAppInfo.java to javac build list
+[DEBUG] adding /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/ExdataApplication.java to javac build list
+[DEBUG] adding /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/R.java to javac build list
+[DEBUG] Building Java Sources: "/Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/ApplicationStylesheet.java" "/Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/AssetCryptImpl.java" "/Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/ExdataActivity.java" "/Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/ExdataAppInfo.java" "/Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/ExdataApplication.java" "/Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/gen/com/domgan/exdata/R.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Volumes/StorageVol/Titanium/Workspaces/eXdataAndroid/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/images/back-blastanalysis-sel.png
+[DEBUG] from resource zip => assets/Resources/images/back-blastanalysis.png
+[DEBUG] from resource zip => assets/Resources/images/back-explosives-sel.png
+[DEBUG] from resource zip => assets/Resources/images/back-explosives.png
+[DEBUG] from resource zip => assets/Resources/images/back-more-sel.png
+[DEBUG] from resource zip => assets/Resources/images/back-more.png
+[DEBUG] from resource zip => assets/Resources/images/back.png
+[DEBUG] from resource zip => assets/Resources/images/back_sel.png
+[DEBUG] from resource zip => assets/Resources/images/bg_list.png
+[DEBUG] from resource zip => assets/Resources/images/bg_tabgroup_bottom.png
+[DEBUG] from resource zip => assets/Resources/images/bg_table_header.png
+[DEBUG] from resource zip => assets/Resources/images/bg_toolbar.png
+[DEBUG] from resource zip => assets/Resources/images/blue.png
+[DEBUG] from resource zip => assets/Resources/images/blue_sel.png
+[DEBUG] from resource zip => assets/Resources/images/list_arrow.png
+[DEBUG] from resource zip => assets/Resources/images/risk_management.png
+[DEBUG] from resource zip => assets/Resources/images/sponsor-background.png
+[DEBUG] from resource zip => assets/Resources/images/sponsor.png
+[DEBUG] from resource zip => assets/Resources/images/tab_blast_analysis@64x64.png
+[DEBUG] from resource zip => assets/Resources/images/tab_blast_analysis@64x64sel.png
+[DEBUG] from resource zip => assets/Resources/images/tab_explosives@64x64.png
+[DEBUG] from resource zip => assets/Resources/images/tab_explosives@64x64sel.png
+[DEBUG] from resource zip => assets/Resources/images/tab_menu@64x64.png
+[DEBUG] from resource zip => assets/Resources/images/tab_menu@64x64sel.png
+[DEBUG] from resource zip => assets/Resources/images/tab_more@64x64.png
+[DEBUG] from resource zip => assets/Resources/images/tab_more@64x64sel.png
+[DEBUG] from resource zip => assets/Resources/images/tab_settings@64x64.png
+[DEBUG] from resource zip => assets/Resources/images/tab_settings@64x64sel.png
+[DEBUG] from resource zip => assets/Resources/images/transparent.png
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/Resources/explosives.json
+[DEBUG] from resource zip => assets/Resources/tnt.json
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-large-port-hdpi/background.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Users/ADM/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] installing native SDK libs

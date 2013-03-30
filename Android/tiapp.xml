@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+	<android xmlns:android="http://schemas.android.com/apk/res/android">    
+        <manifest android:versionCode="5"
+            android:versionName="2.2.0"
+            android:installLocation="auto">
+        </manifest>
+    </android>
+    <property name="acs-oauth-secret-production" type="string">PmNJ6gWV0NTdWtog3DEn5QBF3lU2SOL9</property>
+    <property name="acs-oauth-key-production" type="string">RI7LbVYitzkuxDYMTnb2OqBoymJtHNGp</property>
+    <property name="acs-api-key-production" type="string">a28KUQnMcfkBpHneesS4BG3qKtrua1Y1</property>
+    <property name="acs-oauth-secret-development" type="string">0uwSZBNv3fGcwMC7phJ1vj4QS4oY3eUJ</property>
+    <property name="acs-oauth-key-development" type="string">cbPAJRHU7MiOlEJDrd3DyQxPRtROpDdJ</property>
+    <property name="acs-api-key-development" type="string">lmgKQILLVxAYsLPuxTEz3KZMOKEFoVuU</property>
+    <deployment-targets>
+        <target device="mobileweb">false</target>
+        <target device="iphone">false</target>
+        <target device="ipad">false</target>
+        <target device="android">true</target>
+        <target device="blackberry">false</target>
+    </deployment-targets>
+    <sdk-version>2.1.2.GA</sdk-version>
+    <id>com.domgan.exdata</id>
+    <name>eXdata</name>
+    <version>2.2</version>
+    <publisher>ADM</publisher>
+    <url>http://</url>
+    <description>not specified</description>
+    <copyright>2012 by ADM</copyright>
+    <icon>appicon.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>true</navbar-hidden>
+    <analytics>false</analytics>
+    <guid>24d8b9eb-7cdd-42d0-be00-7391140fcac5</guid>
+    <property name="ti.ui.defaultunit">system</property>
+    <android xmlns:android="http://schemas.android.com/apk/res/android"/>
+    <mobileweb>
+        <precache/>
+        <splash>
+            <enabled>true</enabled>
+            <inline-css-images>true</inline-css-images>
+        </splash>
+        <theme>default</theme>
+    </mobileweb>
+    <modules/>
+</ti:app>

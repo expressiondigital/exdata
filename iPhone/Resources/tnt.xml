@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tnts>
+
+	<tnt>
+		<title>Amatol</title>
+		<equivalence>0.970</equivalence>
+	</tnt>	
+	<tnt>
+		<title>Ammonium Nitrate</title>
+		<equivalence>0.560</equivalence>
+	</tnt>		
+	<tnt>
+		<title>Ammonium Nitrate	/ Fuel Oil (ANFO)</title>
+		<equivalence>0.820</equivalence>
+	</tnt>		
+	<tnt>
+		<title>Baranol</title>
+		<equivalence>1.110</equivalence>
+	</tnt>		
+	<tnt>
+		<title>Blasting Gelatine</title>
+		<equivalence>0.900</equivalence>
+	</tnt>			
+	<tnt>
+		<title>Composition A</title>
+		<equivalence>1.090</equivalence>
+	</tnt>				
+	<tnt>
+		<title>Composition B</title>
+		<equivalence>1.092</equivalence>
+	</tnt>				
+	<tnt>
+		<title>Composition C3</title>
+		<equivalence>1.050</equivalence>
+	</tnt>		
+		<tnt>
+		<title>Composition C4</title>
+		<equivalence>1.370</equivalence>
+	</tnt>			
+	<tnt>
+		<title>Cyclotol 60/40</title>
+		<equivalence>1.140</equivalence>
+	</tnt>				
+	<tnt>
+		<title>Cyclotol 70/30</title>
+		<equivalence>1.160</equivalence>
+	</tnt>					
+	<tnt>
+		<title>Cyclotol 75/25</title>
+		<equivalence>1.240</equivalence>
+	</tnt>		
+	<tnt>
+		<title>DATB</title>
+		<equivalence>0.900</equivalence>
+	</tnt>				
+	<tnt>
+		<title>DBX</title>
+		<equivalence>1.270</equivalence>
+	</tnt>					
+	<tnt>
+		<title>Dynamite</title>
+		<equivalence>0.900</equivalence>
+	</tnt>					
+	<tnt>
+		<title>Ednatol 55/45</title>
+		<equivalence>1.100</equivalence>
+	</tnt>					
+	<tnt>
+		<title>Explosive 'D'</title>
+		<equivalence>0.850</equivalence>
+	</tnt>				
+	<tnt>
+		<title>H-6</title>
+		<equivalence>1.380</equivalence>
+	</tnt>				
+	<tnt>
+		<title>HBX-1</title>
+		<equivalence>1.170</equivalence>
+	</tnt>			
+	<tnt>
+		<title>HBX-3</title>
+		<equivalence>1.140</equivalence>
+	</tnt>				
+	<tnt>
+		<title>Hexogen</title>
+		<equivalence>1.149</equivalence>
+	</tnt>	
+	<tnt>
+		<title>Minol</title>
+		<equivalence>1.200</equivalence>
+	</tnt>
+	<tnt>
+		<title>HMX</title>
+		<equivalence>1.042</equivalence>
+	</tnt>						
+	<tnt>
+		<title>OCTOL 70/30</title>
+		<equivalence>1.140</equivalence>
+	</tnt>					
+	<tnt>
+		<title>OCTOL 75/25</title>
+		<equivalence>1.020</equivalence>
+	</tnt>					
+	<tnt>
+		<title>PBXN-4</title>
+		<equivalence>0.850</equivalence>
+	</tnt>			
+	<tnt>
+		<title>Pentolite 50/50</title>
+		<equivalence>1.380</equivalence>
+	</tnt>				
+	<tnt>
+		<title>Pentolite 90/10</title>
+		<equivalence>1.420</equivalence>
+	</tnt>					
+	<tnt>
+		<title>PETN</title>
+		<equivalence>1.169</equivalence>
+	</tnt>	
+	<tnt>
+		<title>Picratol 52/48</title>
+		<equivalence>0.930</equivalence>
+	</tnt>		
+	<tnt>
+		<title>RDX</title>
+		<equivalence>1.149</equivalence>
+	</tnt>						
+	<tnt>
+		<title>Tetryl</title>
+		<equivalence>1.070</equivalence>
+	</tnt>						
+	<tnt>
+		<title>Tetrytol</title>
+		<equivalence>1.060</equivalence>
+	</tnt>		
+	<tnt>
+		<title>TNT</title>
+		<equivalence>1.000</equivalence>
+	</tnt>		
+	<tnt>
+		<title>Torpex</title>
+		<equivalence>1.280</equivalence>
+	</tnt>	
+	<tnt>
+		<title>Tritonal</title>
+		<equivalence>1.070</equivalence>
+	</tnt>					
+</Tnts>

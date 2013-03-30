@@ -1,0 +1,148 @@
+{
+  "tnt":[
+    {
+      "title":"Amatol",
+      "equivalence":"0.970"
+    },
+    {
+      "title":"Ammonium Nitrate",
+      "equivalence":"0.560"
+    },
+    {
+      "title":"Ammonium Nitrate\t\/ Fuel Oil (ANFO)",
+      "equivalence":"0.820"
+    },
+    {
+      "title":"Baranol",
+      "equivalence":"1.110"
+    },
+    {
+      "title":"Blasting Gelatine",
+      "equivalence":"0.900"
+    },
+    {
+      "title":"Composition A",
+      "equivalence":"1.090"
+    },
+    {
+      "title":"Composition B",
+      "equivalence":"1.092"
+    },
+    {
+      "title":"Composition C3",
+      "equivalence":"1.050"
+    },
+    {
+      "title":"Composition C4",
+      "equivalence":"1.370"
+    },
+    {
+      "title":"Cyclotol 60\/40",
+      "equivalence":"1.140"
+    },
+    {
+      "title":"Cyclotol 70\/30",
+      "equivalence":"1.160"
+    },
+    {
+      "title":"Cyclotol 75\/25",
+      "equivalence":"1.240"
+    },
+    {
+      "title":"DATB",
+      "equivalence":"0.900"
+    },
+    {
+      "title":"DBX",
+      "equivalence":"1.270"
+    },
+    {
+      "title":"Dynamite",
+      "equivalence":"0.900"
+    },
+    {
+      "title":"Ednatol 55\/45",
+      "equivalence":"1.100"
+    },
+    {
+      "title":"Explosive 'D'",
+      "equivalence":"0.850"
+    },
+    {
+      "title":"H-6",
+      "equivalence":"1.380"
+    },
+    {
+      "title":"HBX-1",
+      "equivalence":"1.170"
+    },
+    {
+      "title":"HBX-3",
+      "equivalence":"1.140"
+    },
+    {
+      "title":"Hexogen",
+      "equivalence":"1.149"
+    },
+    {
+      "title":"Minol",
+      "equivalence":"1.200"
+    },
+    {
+      "title":"HMX",
+      "equivalence":"1.042"
+    },
+    {
+      "title":"OCTOL 70\/30",
+      "equivalence":"1.140"
+    },
+    {
+      "title":"OCTOL 75\/25",
+      "equivalence":"1.020"
+    },
+    {
+      "title":"PBXN-4",
+      "equivalence":"0.850"
+    },
+    {
+      "title":"Pentolite 50\/50",
+      "equivalence":"1.380"
+    },
+    {
+      "title":"Pentolite 90\/10",
+      "equivalence":"1.420"
+    },
+    {
+      "title":"PETN",
+      "equivalence":"1.169"
+    },
+    {
+      "title":"Picratol 52\/48",
+      "equivalence":"0.930"
+    },
+    {
+      "title":"RDX",
+      "equivalence":"1.149"
+    },
+    {
+      "title":"Tetryl",
+      "equivalence":"1.070"
+    },
+    {
+      "title":"Tetrytol",
+      "equivalence":"1.060"
+    },
+    {
+      "title":"TNT",
+      "equivalence":"1.000"
+    },
+    {
+      "title":"Torpex",
+      "equivalence":"1.280"
+    },
+    {
+      "title":"Tritonal",
+      "equivalence":"1.070"
+    }
+  ]
+}
